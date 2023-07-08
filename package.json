@@ -1,0 +1,14 @@
+{
+  "name": "pictural",
+  "version": "1.0.0",
+  "description": "Vanilla javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/main.css -o ./dist/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
